@@ -5,7 +5,7 @@ let activeblock=ref(0)
 let expériences=ref([{
     title:"Régal d'Afrik Scoops",
     date: " 2023",
-    line1:" Stageaire dans l'entreprise.",
+    line1:" Stagiaire dans l'entreprise.",
     line2:" Gestionnaire des entrées sorties",
     line3:" Secretaire."   
 },
